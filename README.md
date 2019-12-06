@@ -44,11 +44,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Describe Middleware?
 
+# Middleware is a way developers can make commonly used code reusable for other parts of your application.
+
 - [ ] Describe a Resource?
+
+# Resources are the specific data that can be accessed from routes.
 
 - [ ] What can the API return to help clients know if a request was successful?
 
+# Incorporating Success messages along with status codes is always helpful for developers when working with your api.
+
 - [ ] How can we partition our application into sub-applications?
+
+# Partitioning our application into sub-applications is a way of breaking up the Url endpoints so you dont have a huge stacked endpoint for resources that are needed.
 
 ## Minimum Viable Product
 
